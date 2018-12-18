@@ -1,7 +1,8 @@
 # DSND-data-analysis
 
 ## Introduction
-  Welcome my "Write A Data Science blog post" project site on GitHub.
+  Welcome my "Write A Data Science blog post" project site on GitHub. 
+  
   I have analyzed a dataset made available by IBM about a Telecom company. It is available under the title "Using Customer Behavior Data to Improve Customer Retention" here [link to IBM](https://www.ibm.com/communities/analytics/watson-analytics-blog/predictive-insights-in-the-telco-customer-churn-data-set/)
   
   This dataset contains client data with many features one of which is "Churn" - this indicates if that client has left or stayed. 
@@ -12,7 +13,12 @@
 ## Implementation
   The data analysis was done in a Jupyter notebook with Python 3.2. I used the following libraries/packages in the process 
     - pandas, numpy, matplotlib, seaborn, and Warnings.
-    
+   
+  The notebook *Telco customer churn analysis.ipynb)* is available here in my GitHub repository [Data Analysis Project lin](https://github.com/g-iyer/DSND-data-analysis) 
+   
+   
+   
+  
 Project Motivation
 The motivation behind this analysis is to explore how data scientists compare with other non-data scientist software developers ("non-data scientists") with regard to demographics, programming languages used, coding experience and job satisfaction. Consequently, in this analysis, I set out to answer the following questions, using data collected by Stack Overflow as part of their 2018 Annual Developer Survey:
 1.	How does the demographic profile of data scientists differ from that of non-data scientists?
