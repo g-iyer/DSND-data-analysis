@@ -26,7 +26,12 @@
 
 ## Results
 
-  The analysis revealed that *clients with a long tenure did not leave*,*monthly and total charges had a direct relationship to churn* and *those on month-to-month deals were more likely to leave*. 
+  The analysis revealed that 
+                *clients with a long tenure did not leave*,
+                *monthly and total charges had a direct relationship to churn* and 
+                *those on month-to-month deals were more likely to leave*. 
+                
+  Please refer to the Jupyter Notebook for all the results and visualizations. Also see my blog at Medium here -> 
   
   The analysis was possible without the need to develop a ML model primarily because I treated this as a data analysis and inference project instead of a prediction problem. This dataset has been used in kaggle by many to try out predictive ML modeling. The IBM site (given above) has directions to execute their Watson studio ML algorithms to explore this dataset.
   
