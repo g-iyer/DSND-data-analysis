@@ -17,7 +17,7 @@
   The data analysis was done in a Jupyter notebook with Python 3.2. I used the following libraries/packages in the process 
     - pandas, numpy, matplotlib, seaborn, and Warnings.
    
-  The notebook *Telco customer churn analysis.ipynb)* is available here in my GitHub repository [Data Analysis Project link](https://github.com/g-iyer/DSND-data-analysis) 
+  The notebook *Telco customer churn analysis-rev1.ipynb)* is available here in my GitHub repository [Data Analysis Project link](https://github.com/g-iyer/DSND-data-analysis) 
   
   The notebook uses the IBM Telco dataset also available in this repository, named - **WA_Fn-UseC_-Telco-Customer-Churn.csv**
   
