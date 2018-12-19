@@ -18,31 +18,26 @@
     - pandas, numpy, matplotlib, seaborn, and Warnings.
    
   The notebook *Telco customer churn analysis.ipynb)* is available here in my GitHub repository [Data Analysis Project link](https://github.com/g-iyer/DSND-data-analysis) 
-  The notebook uses the IBM Telco dataset also available in this repository, named - WA_Fn-UseC_-Telco-Customer-Churn.csv
+  
+  The notebook uses the IBM Telco dataset also available in this repository, named - **WA_Fn-UseC_-Telco-Customer-Churn.csv**
   
   Please download and save the notebook and data file to your folder to try. 
   
 
-## Observations
+## Results
 
-  The analysis revealed that clients with a long tenure did not leave, monthly and total charges had a direct relationship to churn and those on month-to-month deals were more likely to leave. 
+  The analysis revealed that *clients with a long tenure did not leave*,*monthly and total charges had a direct relationship to churn* and *those on month-to-month deals were more likely to leave*. 
   
-  The analysis was possible without a need to develop a ML model primarily because I treated this as a data analysis and inference project instead of a prediction problem. This dataset has been used in kaggle by many to try out predictive ML modeling. 
-   
-   
-   
+  The analysis was possible without the need to develop a ML model primarily because I treated this as a data analysis and inference project instead of a prediction problem. This dataset has been used in kaggle by many to try out predictive ML modeling. The IBM site (given above) has directions to execute their Watson studio ML algorithms to explore this dataset.
   
-Project Motivation
-The motivation behind this analysis is to explore how data scientists compare with other non-data scientist software developers ("non-data scientists") with regard to demographics, programming languages used, coding experience and job satisfaction. Consequently, in this analysis, I set out to answer the following questions, using data collected by Stack Overflow as part of their 2018 Annual Developer Survey:
-1.	How does the demographic profile of data scientists differ from that of non-data scientists?
-2.	What programming languages do data scientists favour and how do they differ from those used by non-data scientists?
-3.	How much coding experience do data scientists have compared to non-data scientists?
-4.	Are data scientists more satisfied with their jobs/careers than non-data scientists?
-File Descriptions
-All analysis is contained in the Jupyter notebook DS Survey Analysis.ipynb.
-To run this code, it is first necessary to download the 2018 Stack Overflow Develop Survey dataset from https://insights.stackoverflow.com/survey. The folder containing this data (developer_survey_2018) should then be saved in the current working directory in a folder named "Data".
-Results
-The main findings of this analysis are summarised in a blog post available here.
-Licensing, Authors, Acknowledgements
-The dataset used in this analysis was created by Stack Overflow and made available for download under the Open Database License (ODbL).
-The code contained in this repository may be used freely with acknowledgement.
+  ## Reflections
+  
+    This project helped me understand not only the data science and analysis process but also how visualization (using matplotlib abd seaborn)  and inference (using pandas functtions) can also be very helpful in understanding data. As mentioned in the coursework it id not always about "Machine Learning" !
+    
+    I plan to use the visualization techniques that I learnt in this project in my regular work. It was a challenge to understand and use the syntax of these plotting packages but the results are worth it. 
+    
+ ## Acknowledgments
+  
+  Thanks to IBM for providing the dataset and to the many programmers and data scientists on sites like kaggle and stackoverflow.
+   
+   
