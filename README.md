@@ -32,9 +32,12 @@
   
   ## Reflections
   
-    This project helped me understand not only the data science and analysis process but also how visualization (using matplotlib abd seaborn)  and inference (using pandas functtions) can also be very helpful in understanding data. As mentioned in the coursework it id not always about "Machine Learning" !
+  This project helped me understand not only the data science and analysis process but also how **visualization (using matplotlib
+    and seaborn)**  and **inference (using pandas functions)** can be very helpful in understanding data. 
+    As mentioned in the coursework data science is not always about "Machine Learning" !
     
-    I plan to use the visualization techniques that I learnt in this project in my regular work. It was a challenge to understand and use the syntax of these plotting packages but the results are worth it. 
+    I plan to use the visualization techniques that I learnt in this project in my regular work. It was a challenge to understand
+    and use the syntax of these plotting packages but the results are worth it. 
     
  ## Acknowledgments
   
